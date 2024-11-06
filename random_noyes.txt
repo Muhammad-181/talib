@@ -1,2 +1,6 @@
 HOW
 "C:\Windows\System32\OpenSSH\ssh.exe" -i "C:\Users\faisa\Downloads\talib-linux.pem" ubuntu@54.185.189.248
+
+
+password for git token
+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
